@@ -22,7 +22,7 @@ end
 
 gem 'jquery-rails'
 gem "rspec-rails", :group => [:test, :development]
-gem 'guard-rspec'
+gem 'guard-rspec', :group => [:development]
 gem 'httparty'
 gem 'nokogiri'
 # To use ActiveModel has_secure_password
