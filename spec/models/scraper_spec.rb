@@ -26,7 +26,7 @@ describe Scraper do
   end
 
   describe '#get_images' do
-    it ""
+    it " "
 
   end
 
