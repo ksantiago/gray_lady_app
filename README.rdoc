@@ -1,1 +1,1 @@
-{<img src="https://travis-ci.org/ksantiago/gray_lady_app.png?branch=master" alt="Build Status" />}[https://travis-ci.org/ksantiago/gray_lady_app]
+{<img src="https://travis-ci.org/ksantiago/gray_lady_scraper_app.png?branch=master" alt="Build Status" />}[https://travis-ci.org/ksantiago/gray_lady_scraper_app]
